@@ -20,9 +20,9 @@ function fizzbuzz() {
             result ="Buzz";
          }
          else {
-             console.log(result)
+             result= i
          }
-
+         console.log(result)
 
     }
 
